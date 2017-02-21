@@ -4,3 +4,6 @@
 [submodule "cube/impress.js"]
 	path = cube/impress.js
 	url = https://github.com/henrikingo/impress.js.git
+[submodule "empty-slides/impress.js"]
+	path = empty-slides/impress.js
+	url = https://github.com/henrikingo/impress.js.git
