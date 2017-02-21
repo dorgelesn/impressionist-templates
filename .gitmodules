@@ -1,0 +1,3 @@
+[submodule "official-demo/impress.js"]
+	path = official-demo/impress.js
+	url = https://github.com/henrikingo/impress.js.git
