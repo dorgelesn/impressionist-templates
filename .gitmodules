@@ -10,3 +10,6 @@
 [submodule "empty/impress.js"]
 	path = empty/impress.js
 	url = https://github.com/henrikingo/impress.js.git
+[submodule "classic-slides/impress.js"]
+	path = classic-slides/impress.js
+	url = https://github.com/henrikingo/impress.js.git
