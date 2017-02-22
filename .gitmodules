@@ -13,3 +13,6 @@
 [submodule "classic-slides/impress.js"]
 	path = classic-slides/impress.js
 	url = https://github.com/henrikingo/impress.js.git
+[submodule "3D-rotations/impress.js"]
+	path = 3D-rotations/impress.js
+	url = https://github.com/henrikingo/impress.js.git
