@@ -1,3 +1,11 @@
+Each template may specify its own license, which must be either an OSI certified
+open source license, or Creative Commons Attribution or Attribution-ShareAlike license.
+
+impress.js itself is licensed with the MIT License, see */impress.js/LICENSE
+
+If a template doesn't specify its own license, it is licensed under the MIT License:
+
+*********************
 MIT License
 
 Copyright (c) 2017 Henrik Ingo
